@@ -1,3 +1,4 @@
 hello this is app v1
 feature: login module
 changed via github
+Auth feature implemented
